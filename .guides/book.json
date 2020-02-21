@@ -1,0 +1,35 @@
+{
+ "name": "Checkstyle& Code Coverage",
+ "children": [
+  {
+   "title": "Checkstyle",
+   "id": "5a74d4a5-0779-a247-423f-7fae78a80aaf",
+   "type": "page",
+   "pageId": "3fc107fa-bfc1-00ff-e7b1-78aed2ca398e"
+  },
+  {
+   "title": "Code Coverage",
+   "id": "5120d021-7b56-a999-8d6c-a9524b60f7ef",
+   "type": "page",
+   "pageId": "5120d021-7b56-a999-8d6c-a9524b60f7ef"
+  },
+  {
+   "title": "Setting Up Gradle",
+   "id": "0dd495dd-344c-a34f-47fc-c7eea1d1d22b",
+   "type": "page",
+   "pageId": "0dd495dd-344c-a34f-47fc-c7eea1d1d22b"
+  },
+  {
+   "id": "1d1f2450-8d52-a901-66bc-b93b900f9387",
+   "title": "JaCoCo Plugin",
+   "pageId": "beb353b2-1225-94a4-bd38-a7d95551ef25",
+   "type": "page"
+  },
+  {
+   "id": "c608b080-ba18-34e4-b724-05271043ec8a",
+   "title": "JaCoCo Output",
+   "pageId": "7412b14b-acce-9365-294e-342004e09c1b",
+   "type": "page"
+  }
+ ]
+}

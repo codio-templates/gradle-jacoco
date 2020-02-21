@@ -1,0 +1,125 @@
+{
+ "sections": [
+  {
+   "id": "3fc107fa-bfc1-00ff-e7b1-78aed2ca398e",
+   "title": "Checkstyle",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "checkstyle_example/hello_world.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Checkstyle-3fc1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5120d021-7b56-a999-8d6c-a9524b60f7ef",
+   "title": "Code Coverage",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "demo/src/main/java/demo/App.java",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "demo/src/test/java/demo/AppTest.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Code-Coverage-5120.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "0dd495dd-344c-a34f-47fc-c7eea1d1d22b",
+   "title": "Setting Up Gradle",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Setting-Up-Gradle-0dd4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "beb353b2-1225-94a4-bd38-a7d95551ef25",
+   "title": "JaCoCo Plugin",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/JaCoCo-Plugin-beb3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7412b14b-acce-9365-294e-342004e09c1b",
+   "title": "JaCoCo Output",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/JaCoCo-Output-7412.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}
