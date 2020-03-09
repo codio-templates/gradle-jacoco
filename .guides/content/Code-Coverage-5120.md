@@ -4,3 +4,4 @@ Code coverage is handled through a combination of Grade and JaCoCo. The EclEmma 
 
 {gradle script}(bash .guides/gradle_script.sh)
 [Show Test Coverage](open_preview demo/build/jacocoHtml/index.html)
+{Check It!|assessment}(test-4235342038)

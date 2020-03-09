@@ -35,5 +35,47 @@
    "bloomsObjectiveLevel": "",
    "learningObjectives": ""
   }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4235342038",
+  "source": {
+   "name": "Submit Your Work",
+   "showName": true,
+   "instructions": "This is an advanced code test that would configured to grade the student work. **Note**, this code test does not actually grade anything.",
+   "command": "readme.md",
+   "arePartialPointsAllowed": false,
+   "timeoutSeconds": 40,
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 1,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Advanced Code Test"
+     }
+    ],
+    "files": [
+     "demo/src/main/java/demo/App.java",
+     "demo/src/test/java/demo/AppTest.java"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 1,
+      "content": "demo/src/main/java/demo/App.java"
+     },
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "demo/src/test/java/demo/AppTest.java"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
  }
 ]
