@@ -21,7 +21,7 @@ On the `GRADING` page of the advanced code test, enter how many points the quest
 The steps below are one possible way a grade for student work can be calculated.
 
   * Have the students run the code coverage tests on their work. JaCoCo will generate reports in the `build` directory.
-  * Generate a CSV or XML version of the report so you can reference the results. The `build.gradle` file has a report configuration section. If CSV files are enabled, they will appear in `build/customJacocoReportDir/test/jacocoTestReport.csv`.
+  * Generate a CSV or XML version of the report so you can reference the results. The `build.gradle` file has a report configuration section. If CSV files are enabled, they will appear in `build/customJacocoReportDir/test/jacocoTestReport.csv`. [Example CSV](open_file demo/build/customJacocoReportDir/test/jacocoTestReport.csv).
   
   ```json
   jacocoTestReport {
