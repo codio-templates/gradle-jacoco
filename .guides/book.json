@@ -30,6 +30,18 @@
    "title": "JaCoCo Output",
    "pageId": "7412b14b-acce-9365-294e-342004e09c1b",
    "type": "page"
+  },
+  {
+   "id": "452deb1b-7bdb-3e31-379a-8e09b3272d1e",
+   "title": "Grading Scheme",
+   "pageId": "baed379d-bb86-ac21-e880-ad0d5b93c980",
+   "type": "page"
+  },
+  {
+   "id": "e14e536b-299f-90eb-6f3f-a66ff3fa436f",
+   "title": "Canvas Integration",
+   "pageId": "acf01d37-fbc9-45f0-0ab8-6450bf091e7c",
+   "type": "page"
   }
  ]
 }

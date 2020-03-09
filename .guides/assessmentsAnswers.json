@@ -1,0 +1,20 @@
+[
+ {
+  "taskId": "test-1416817129",
+  "points": 0,
+  "results": [
+   {
+    "code": 1,
+    "output": "Starting audit...\n[WARN] checkstyle_example/hello_world.java:3: The name of the outer type and the file do not match. [OuterTypeFilename]\nAudit done.\n",
+    "timestamp": 1582752098125,
+    "state": "fail"
+   },
+   {
+    "code": 1,
+    "output": "Starting audit...\n[ERROR] checkstyle_example/hello_world.java:1: File does not end with a newline. [NewlineAtEndOfFile]\n[ERROR] checkstyle_example/hello_world.java:1: Missing package-info.java file. [JavadocPackage]\n[ERROR] checkstyle_example/hello_world.java:3:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]\n[ERROR] checkstyle_example/hello_world.java:4:3: Missing a Javadoc comment. [MissingJavadocMethod]\n[ERROR] checkstyle_example/hello_world.java:4:27: Parameter args should be final. [FinalParameters]\nAudit done.\nCheckstyle ends with 5 errors.\n",
+    "timestamp": 1582752070628,
+    "state": "fail"
+   }
+  ]
+ }
+]
